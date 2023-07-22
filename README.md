@@ -55,13 +55,15 @@ User can add resources to their pages, posts or other custom content using short
 
 The shortcodes support CSS properties as arguments, if and when those need to be updated manually. 
 
+## ResourceSpace References
+
+Information about this plugin can be found in the ResouceSpace Knowledge Base at https://www.resourcespace.com/knowledge-base/plugins/wordpress
+
 ## Contributing
 
+Current GitHub Repository: https://github.com/TheMaskedFerret/WordPress-Resourcespace
+Forked from Original GitLab repository: https://gitlab.com/adranetwork/wordpress-resourcespace
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. 
 
 ## License
 
